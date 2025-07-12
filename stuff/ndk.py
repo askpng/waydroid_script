@@ -9,7 +9,7 @@ class Ndk(General):
     partition = "system"
     dl_links = {
         "11": ["https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt/archive/9324a8914b649b885dad6f2bfd14a67e5d1520bf.zip", "c9572672d1045594448068079b34c350"],
-        "13": ["https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt/archive/a090003c60df53a9eadb2df09bd4fd2fa86ea629.zip", "e6f0d9fc28ebc427b59a3942a9a4ffc0"]
+        "13": ["https://github.com/supremegamers/vendor_google_proprietary_ndk_translation-prebuilt/archive/68734c52556d3d7a6db34c603dd9276915c29f2f.zip", "0b2207c490fcb400aa5c87fcf0d52d38"]
     }
     dl_file_name = "libndktranslation.zip"
     extract_to = "/tmp/libndkunpack"
